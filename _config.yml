@@ -1,12 +1,7 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Archives: /archives 
     Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
